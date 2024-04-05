@@ -1,0 +1,37 @@
+#header-wrapper
+{
+    display: flex;
+    background-color: black;
+    padding: 2vh;
+    justify-content: space-between;
+    align-items:  center;
+}
+#heading
+{
+    color : white;
+    font-size: 3.3vh;
+    margin-left: 1vh;
+}
+#search-button
+{
+    padding : 2vh;
+    border-radius: 3vh;
+    margin-left: 1vh;
+    background-color: blue;
+    color : white;
+    border : transparent;
+    padding-left : 3vh;
+    padding-right : 3vh;
+}
+#search-button:hover
+{
+opacity : 50%
+}
+#search-bar
+{
+padding : 2vh;
+border : transparent;
+border-radius: 3vh;
+padding-right : 3vh;
+padding-left : 3vh;
+}
